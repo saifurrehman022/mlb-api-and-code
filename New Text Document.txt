@@ -1,0 +1,75 @@
+teams---
+Arizona Diamondbacks - 0
+Atlanta Braves - 1
+Baltimore Orioles - 2
+Boston Red Sox - 3
+Chicago Cubs - 4
+Chicago White Sox - 5
+Cincinnati Reds - 6
+Cleveland Guardians - 7
+Colorado Rockies - 8
+Detroit Tigers - 9
+Houston Astros - 10
+Kansas City Royals - 11
+Los Angeles Angels - 12
+Los Angeles Dodgers - 13
+Miami Marlins - 14
+Milwaukee Brewers - 15
+Minnesota Twins - 16
+New York Mets - 17
+New York Yankees - 18
+Oakland Athletics - 19
+Philadelphia Phillies - 20
+Pittsburgh Pirates - 21
+San Diego Padres - 22
+San Francisco Giants - 23
+Seattle Mariners - 24
+St. Louis Cardinals - 25
+Tampa Bay Rays - 26
+Texas Rangers - 27
+Toronto Blue Jays - 28
+Washington Nationals - 29
+------------------------------------
+now
+Venue
+Wrigley Field: 30
+Guaranteed Rate Field: 13
+Dodger Stadium: 8
+Citizens Bank Park: 5
+Chase Field: 3
+Oakland Coliseum: 18
+T-Mobile Park: 26
+Citi Field: 4
+Minute Maid Park: 16
+Tropicana Field: 28
+Oriole Park at Camden Yards: 20
+loanDepot park: 32
+PETCO Park: 21
+Nationals Park: 17
+American Family Field: 0
+Target Field: 27
+Busch Stadium: 19
+Kauffman Stadium: 25
+Angel Stadium: 12
+Oracle Park: 14
+Coors Field: 9
+Great American Ball Park: 7
+PNC Park: 22
+Fenway Park: 31
+Rogers Centre: 2
+Progressive Field: 1
+Comerica Park: 6
+Yankee Stadium: 11
+Estadio Alfredo Harp Helu: 29
+--------------------------------
+Condition
+
+Clear: 0
+Partly cloudy: 20
+Overcast: 23
+Sunny: 32
+Haze: 5
+Light Rain, Mist: 13
+Light Drizzle: 8
+Light Rain: 10
+Cloudy: 9
